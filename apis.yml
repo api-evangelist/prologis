@@ -4,6 +4,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/prologis-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/prologis
   - type: Website
